@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I am a passionate Graphic Designer with a keen int
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Pedro Silva](https://www.linkedin.com/in/pedro-goncalves-da-silva-1980-silva/)]
-- Portfolio: [PedroSilvaDesigns](https://www.behance.net/pedrofalconnier)]
+- LinkedIn: [Pedro Silva](https://www.linkedin.com/in/pedro-goncalves-da-silva-1980-silva/)
+- Portfolio: [PedroSilvaDesigns](https://www.behance.net/pedrofalconnier)
 
 Feel free to explore my repositories and projects. If you have any questions, suggestions, or just want to say hi, I'd love to hear from you!
 
