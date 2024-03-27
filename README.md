@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hello, I'm Pedro Silva! 👋
 
-<!--
-**PedroSilva1980/PedroSilva1980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a passionate Graphic Designer with a keen interest in technology, web development, coding, and arts. Here you'll find a mix of my personal projects, designs, and explorations in the world of technology and creativity.
 
-Here are some ideas to get you started:
+## 🎨 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Profession**: Graphic Designer
+- **Interests**: Technology, Web Development, Coding, Arts
+
+## 🛠️ What I Do
+
+- **Graphic Design**: Creating visually appealing designs for both digital and print media.
+- **Web Development**: Focus on learning how to Build and design user-friendly websites with a focus on aesthetics and functionality.
+- **Coding**: Focus on exploring various programming languages and frameworks to create innovative solutions.
+- **Arts**: Dabbling in different forms of art to express creativity and inspire others.
+
+## 🌱 Currently Learning
+
+- Software Engeneer: Improving my skills in Python, and JavaScript.
+- Digital Art: Exploring new techniques and styles to expand my artistic horizons.
+
+## 📫 Let's Connect
+
+- LinkedIn: [Pedro Silva](https://www.linkedin.com/in/pedro-goncalves-da-silva-1980-silva/)](#)
+- Portfolio: [PedroSilvaDesigns](https://www.behance.net/pedrofalconnier)
+
+Feel free to explore my repositories and projects. If you have any questions, suggestions, or just want to say hi, I'd love to hear from you!
+
+Happy Coding! 🚀
