@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I am a passionate Graphic Designer with a keen int
 
 ## 🌱 Currently Learning
 
-- Software Engeneer: Improving my skills in Python, and JavaScript.
+- Software Engeneering: Improving my skills in Python, and JavaScript.
 - Digital Art: Exploring new techniques and styles to expand my artistic horizons.
 
 ## 📫 Let's Connect
