@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am a passionate Graphic Designer with a keen int
 
 ## 🎨 About Me
 
-- **Profession**: Graphic Designer
+- **Profession**: Graphic Designer and soon to be a Data Analyst
 - **Interests**: Technology, Web Development, Coding, Arts
 
 ## 🛠️ What I Do
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I am a passionate Graphic Designer with a keen int
 - **Arts**: Dabbling in different forms of art to express creativity and inspire others.
 
 ## 🌱 Currently Learning
-
+- Data analytics: Learning Tableau, SQL, R and Python
 - Software Engeneering: Improving my skills in Python, and JavaScript.
 - Digital Art: Exploring new techniques and styles to expand my artistic horizons.
 
